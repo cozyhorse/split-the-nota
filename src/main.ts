@@ -36,10 +36,3 @@ function showDividedSum(sum): void {
     friendSum.innerHTML = sum + ' kr';
     document.getElementById('showSum').classList.toggle('hide');
 }
-
-
-
-
-
-
-
